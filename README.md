@@ -1,4 +1,4 @@
-# Restaurant Mangement App
+# Restaurant Management App
 <b>The Restaurant Management App is a Python GUI application developed to serve as a comprehensive solution for restaurant owners.</b>
 
 <h2>Overview</h2>
